@@ -1,1 +1,1 @@
-This is File B.
+MASTER: I am also editing File B.
