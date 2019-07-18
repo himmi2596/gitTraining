@@ -1,1 +1,2 @@
-MASTER: I am also editing File B.
+This is File B.
+I have edited File B.
